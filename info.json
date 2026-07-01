@@ -1,0 +1,9 @@
+{
+    "name": "Quality_Science_Patch",
+    "version": "0.0.1",
+    "title": "Quality Science Patch",
+    "author": "Yuu",
+    "factorio_version": "2.1",
+    "description": "",
+    "dependencies": ["base >= 2.1.0", "quality >= 2.1.0"]
+}
