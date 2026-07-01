@@ -1,0 +1,3569 @@
+{
+  "Version": 8,
+  "Object": "ProductionGraphViewer",
+  "SavedPresetName": "Quality_Science_Patch_0.0.1",
+  "IncludedMods": [
+    "core|1.0",
+    "base|2.0.77",
+    "elevated-rails|2.0.77",
+    "quality|2.0.77",
+    "space-age|2.0.77",
+    "foreman_test|0.0.1"
+  ],
+  "Unit": 1,
+  "ViewOffset": "-2614, 68",
+  "ViewScale": 0.22335611,
+  "ExtraProdForNonMiners": true,
+  "AssemblerSelectorStyle": 3,
+  "ModuleSelectorStyle": 0,
+  "FuelPriorityList": [
+    "nuclear-fuel",
+    "coal",
+    "tree-seed",
+    "uranium-fuel-cell",
+    "pentapod-egg",
+    "solid-fuel",
+    "\u00A7\u00A7i:heat",
+    "rocket-fuel",
+    "bioflux",
+    "nutrients"
+  ],
+  "EnabledRecipes": [
+    "accumulator",
+    "acid-neutralisation",
+    "active-provider-chest",
+    "advanced-carbonic-asteroid-crushing",
+    "advanced-circuit",
+    "advanced-metallic-asteroid-crushing",
+    "advanced-oil-processing",
+    "advanced-oxide-asteroid-crushing",
+    "advanced-thruster-fuel",
+    "advanced-thruster-oxidizer",
+    "agricultural-science-pack",
+    "agricultural-science-pack-epic",
+    "agricultural-science-pack-legendary",
+    "agricultural-science-pack-normal",
+    "agricultural-science-pack-rare",
+    "agricultural-science-pack-uncommon",
+    "agricultural-tower",
+    "ammonia-rocket-fuel",
+    "ammoniacal-solution-separation",
+    "arithmetic-combinator",
+    "artificial-jellynut-soil",
+    "artificial-yumako-soil",
+    "artillery-shell",
+    "artillery-turret",
+    "artillery-wagon",
+    "assembling-machine-1",
+    "assembling-machine-2",
+    "assembling-machine-3",
+    "asteroid-collector",
+    "atomic-bomb",
+    "automation-science-pack",
+    "automation-science-pack-epic",
+    "automation-science-pack-legendary",
+    "automation-science-pack-normal",
+    "automation-science-pack-rare",
+    "automation-science-pack-uncommon",
+    "barrel",
+    "basic-oil-processing",
+    "battery",
+    "battery-equipment",
+    "battery-mk2-equipment",
+    "battery-mk3-equipment",
+    "beacon",
+    "belt-immunity-equipment",
+    "big-electric-pole",
+    "big-mining-drill",
+    "biochamber",
+    "bioflux",
+    "biolab",
+    "biolubricant",
+    "bioplastic",
+    "biosulfur",
+    "biter-egg",
+    "boiler",
+    "buffer-chest",
+    "bulk-inserter",
+    "burner-inserter",
+    "burner-mining-drill",
+    "burnt-spoilage",
+    "cannon-shell",
+    "captive-biter-spawner",
+    "capture-robot-rocket",
+    "car",
+    "carbon",
+    "carbon-fiber",
+    "carbonic-asteroid-crushing",
+    "carbonic-asteroid-reprocessing",
+    "cargo-bay",
+    "cargo-landing-pad",
+    "cargo-wagon",
+    "casting-copper",
+    "casting-copper-cable",
+    "casting-iron",
+    "casting-iron-gear-wheel",
+    "casting-iron-stick",
+    "casting-low-density-structure",
+    "casting-pipe",
+    "casting-pipe-to-ground",
+    "casting-steel",
+    "centrifuge",
+    "chemical-plant",
+    "chemical-science-pack",
+    "chemical-science-pack-epic",
+    "chemical-science-pack-legendary",
+    "chemical-science-pack-normal",
+    "chemical-science-pack-rare",
+    "chemical-science-pack-uncommon",
+    "cliff-explosives",
+    "cluster-grenade",
+    "coal-liquefaction",
+    "coal-synthesis",
+    "combat-shotgun",
+    "concrete",
+    "concrete-from-molten-iron",
+    "constant-combinator",
+    "construction-robot",
+    "copper-bacteria",
+    "copper-bacteria-cultivation",
+    "copper-cable",
+    "copper-plate",
+    "crusher",
+    "cryogenic-plant",
+    "cryogenic-science-pack",
+    "cryogenic-science-pack-epic",
+    "cryogenic-science-pack-legendary",
+    "cryogenic-science-pack-normal",
+    "cryogenic-science-pack-rare",
+    "cryogenic-science-pack-uncommon",
+    "decider-combinator",
+    "defender-capsule",
+    "destroyer-capsule",
+    "discharge-defense-equipment",
+    "display-panel",
+    "distractor-capsule",
+    "efficiency-module",
+    "efficiency-module-2",
+    "efficiency-module-3",
+    "electric-engine-unit",
+    "electric-furnace",
+    "electric-mining-drill",
+    "electrolyte",
+    "electromagnetic-plant",
+    "electromagnetic-science-pack",
+    "electromagnetic-science-pack-epic",
+    "electromagnetic-science-pack-legendary",
+    "electromagnetic-science-pack-normal",
+    "electromagnetic-science-pack-rare",
+    "electromagnetic-science-pack-uncommon",
+    "electronic-circuit",
+    "energy-shield-equipment",
+    "energy-shield-mk2-equipment",
+    "engine-unit",
+    "exoskeleton-equipment",
+    "explosive-cannon-shell",
+    "explosive-rocket",
+    "explosive-uranium-cannon-shell",
+    "explosives",
+    "express-splitter",
+    "express-transport-belt",
+    "express-underground-belt",
+    "fast-inserter",
+    "fast-splitter",
+    "fast-transport-belt",
+    "fast-underground-belt",
+    "firearm-magazine",
+    "fish-breeding",
+    "fission-reactor-equipment",
+    "flamethrower",
+    "flamethrower-ammo",
+    "flamethrower-turret",
+    "fluid-wagon",
+    "fluoroketone",
+    "fluoroketone-cooling",
+    "flying-robot-frame",
+    "foundation",
+    "foundry",
+    "fusion-generator",
+    "fusion-power-cell",
+    "fusion-reactor",
+    "fusion-reactor-equipment",
+    "gate",
+    "grenade",
+    "gun-turret",
+    "hazard-concrete",
+    "heat-exchanger",
+    "heat-pipe",
+    "heating-tower",
+    "heavy-armor",
+    "heavy-oil-cracking",
+    "holmium-plate",
+    "holmium-solution",
+    "ice-melting",
+    "ice-platform",
+    "inserter",
+    "iron-bacteria",
+    "iron-bacteria-cultivation",
+    "iron-chest",
+    "iron-gear-wheel",
+    "iron-plate",
+    "iron-stick",
+    "jellynut",
+    "jellynut-processing",
+    "kovarex-enrichment-process",
+    "lab",
+    "land-mine",
+    "landfill",
+    "laser-turret",
+    "light-armor",
+    "light-oil-cracking",
+    "lightning-collector",
+    "lightning-rod",
+    "lithium",
+    "lithium-plate",
+    "locomotive",
+    "logistic-robot",
+    "logistic-science-pack",
+    "logistic-science-pack-epic",
+    "logistic-science-pack-legendary",
+    "logistic-science-pack-normal",
+    "logistic-science-pack-rare",
+    "logistic-science-pack-uncommon",
+    "long-handed-inserter",
+    "low-density-structure",
+    "lubricant",
+    "mech-armor",
+    "medium-electric-pole",
+    "metallic-asteroid-crushing",
+    "metallic-asteroid-reprocessing",
+    "metallurgic-science-pack",
+    "metallurgic-science-pack-epic",
+    "metallurgic-science-pack-legendary",
+    "metallurgic-science-pack-normal",
+    "metallurgic-science-pack-rare",
+    "metallurgic-science-pack-uncommon",
+    "military-science-pack",
+    "military-science-pack-epic",
+    "military-science-pack-legendary",
+    "military-science-pack-normal",
+    "military-science-pack-rare",
+    "military-science-pack-uncommon",
+    "modular-armor",
+    "molten-copper",
+    "molten-copper-from-lava",
+    "molten-iron",
+    "molten-iron-from-lava",
+    "night-vision-equipment",
+    "nuclear-fuel",
+    "nuclear-fuel-reprocessing",
+    "nuclear-reactor",
+    "nutrients-from-bioflux",
+    "nutrients-from-biter-egg",
+    "nutrients-from-fish",
+    "nutrients-from-spoilage",
+    "nutrients-from-yumako-mash",
+    "offshore-pump",
+    "oil-refinery",
+    "overgrowth-jellynut-soil",
+    "overgrowth-yumako-soil",
+    "oxide-asteroid-crushing",
+    "oxide-asteroid-reprocessing",
+    "passive-provider-chest",
+    "pentapod-egg",
+    "personal-laser-defense-equipment",
+    "personal-roboport-equipment",
+    "personal-roboport-mk2-equipment",
+    "piercing-rounds-magazine",
+    "piercing-shotgun-shell",
+    "pipe",
+    "pipe-to-ground",
+    "plastic-bar",
+    "poison-capsule",
+    "power-armor",
+    "power-armor-mk2",
+    "power-switch",
+    "processing-unit",
+    "production-science-pack",
+    "production-science-pack-epic",
+    "production-science-pack-legendary",
+    "production-science-pack-normal",
+    "production-science-pack-rare",
+    "production-science-pack-uncommon",
+    "productivity-module",
+    "productivity-module-2",
+    "productivity-module-3",
+    "programmable-speaker",
+    "promethium-chunk-smelting",
+    "promethium-science-pack",
+    "promethium-science-pack-epic",
+    "promethium-science-pack-legendary",
+    "promethium-science-pack-normal",
+    "promethium-science-pack-rare",
+    "promethium-science-pack-uncommon",
+    "pump",
+    "pumpjack",
+    "quality-module",
+    "quality-module-2",
+    "quality-module-3",
+    "quantum-processor",
+    "radar",
+    "rail",
+    "rail-chain-signal",
+    "rail-ramp",
+    "rail-signal",
+    "rail-support",
+    "railgun",
+    "railgun-ammo",
+    "railgun-turret",
+    "recycler",
+    "refined-concrete",
+    "refined-hazard-concrete",
+    "repair-pack",
+    "requester-chest",
+    "roboport",
+    "rocket",
+    "rocket-fuel",
+    "rocket-fuel-from-jelly",
+    "rocket-launcher",
+    "rocket-part",
+    "rocket-silo",
+    "rocket-turret",
+    "scrap-recycling",
+    "selector-combinator",
+    "shotgun",
+    "shotgun-shell",
+    "simple-coal-liquefaction",
+    "slowdown-capsule",
+    "small-electric-pole",
+    "small-lamp",
+    "solar-panel",
+    "solar-panel-equipment",
+    "solid-fuel-from-ammonia",
+    "solid-fuel-from-heavy-oil",
+    "solid-fuel-from-light-oil",
+    "solid-fuel-from-petroleum-gas",
+    "space-platform-foundation",
+    "space-platform-starter-pack",
+    "space-science-pack",
+    "space-science-pack-epic",
+    "space-science-pack-legendary",
+    "space-science-pack-normal",
+    "space-science-pack-rare",
+    "space-science-pack-uncommon",
+    "speed-module",
+    "speed-module-2",
+    "speed-module-3",
+    "spidertron",
+    "splitter",
+    "stack-inserter",
+    "steam-condensation",
+    "steam-engine",
+    "steam-turbine",
+    "steel-chest",
+    "steel-furnace",
+    "steel-plate",
+    "stone-brick",
+    "stone-furnace",
+    "stone-wall",
+    "storage-chest",
+    "storage-tank",
+    "submachine-gun",
+    "substation",
+    "sulfur",
+    "sulfuric-acid",
+    "supercapacitor",
+    "superconductor",
+    "tank",
+    "tesla-ammo",
+    "tesla-turret",
+    "teslagun",
+    "thruster",
+    "thruster-fuel",
+    "thruster-oxidizer",
+    "toolbelt-equipment",
+    "train-stop",
+    "transport-belt",
+    "tungsten-carbide",
+    "tungsten-plate",
+    "turbo-splitter",
+    "turbo-transport-belt",
+    "turbo-underground-belt",
+    "underground-belt",
+    "uranium-cannon-shell",
+    "uranium-fuel-cell",
+    "uranium-processing",
+    "uranium-rounds-magazine",
+    "utility-science-pack",
+    "utility-science-pack-epic",
+    "utility-science-pack-legendary",
+    "utility-science-pack-normal",
+    "utility-science-pack-rare",
+    "utility-science-pack-uncommon",
+    "wood-processing",
+    "wooden-chest",
+    "yumako",
+    "yumako-processing",
+    "\u00A7\u00A7r:b:water:steam:165",
+    "\u00A7\u00A7r:b:water:steam:500",
+    "\u00A7\u00A7r:e:ammoniacal-solution",
+    "\u00A7\u00A7r:e:calcite",
+    "\u00A7\u00A7r:e:coal",
+    "\u00A7\u00A7r:e:copper-ore",
+    "\u00A7\u00A7r:e:crude-oil",
+    "\u00A7\u00A7r:e:fluorine-vent",
+    "\u00A7\u00A7r:e:heavy-oil",
+    "\u00A7\u00A7r:e:iron-ore",
+    "\u00A7\u00A7r:e:lava",
+    "\u00A7\u00A7r:e:lithium-brine",
+    "\u00A7\u00A7r:e:scrap",
+    "\u00A7\u00A7r:e:stone",
+    "\u00A7\u00A7r:e:sulfuric-acid-geyser",
+    "\u00A7\u00A7r:e:tungsten-ore",
+    "\u00A7\u00A7r:e:uranium-ore",
+    "\u00A7\u00A7r:e:water",
+    "\u00A7\u00A7r:g:steam:100\u003ENaN",
+    "\u00A7\u00A7r:h:heat-generation"
+  ],
+  "EnabledAssemblers": [
+    "assembling-machine-1",
+    "assembling-machine-2",
+    "assembling-machine-3",
+    "big-mining-drill",
+    "biochamber",
+    "boiler",
+    "burner-mining-drill",
+    "captive-biter-spawner",
+    "centrifuge",
+    "chemical-plant",
+    "crusher",
+    "cryogenic-plant",
+    "electric-furnace",
+    "electric-mining-drill",
+    "electromagnetic-plant",
+    "foundry",
+    "heat-exchanger",
+    "heating-tower",
+    "nuclear-reactor",
+    "offshore-pump",
+    "oil-refinery",
+    "pumpjack",
+    "recycler",
+    "rocket-silo",
+    "steam-engine",
+    "steam-turbine",
+    "steel-furnace",
+    "stone-furnace",
+    "\u00A7\u00A7a:player-assembler",
+    "\u00A7\u00A7a:rocket-assembler"
+  ],
+  "EnabledModules": [
+    "efficiency-module",
+    "efficiency-module-2",
+    "efficiency-module-3",
+    "productivity-module",
+    "productivity-module-2",
+    "productivity-module-3",
+    "quality-module",
+    "quality-module-2",
+    "quality-module-3",
+    "speed-module",
+    "speed-module-2",
+    "speed-module-3"
+  ],
+  "EnabledBeacons": [
+    "beacon"
+  ],
+  "OldImport": false,
+  "ProductionGraph": {
+    "Version": 8,
+    "Object": "ProductionGraph",
+    "EnableExtraProductivityForNonMiners": true,
+    "DefaultNodeDirection": 0,
+    "Solver_PullOutputNodes": false,
+    "Solver_PullOutputNodesPower": 1,
+    "Solver_LowPriorityPower": 2,
+    "MaxQualitySteps": 2,
+    "DefaultQuality": "legendary",
+    "IncludedItems": [
+      "automation-science-pack",
+      "calcite",
+      "copper-ore",
+      "copper-plate",
+      "iron-gear-wheel",
+      "iron-ore",
+      "iron-plate",
+      "molten-iron",
+      "pipe",
+      "pipe-to-ground"
+    ],
+    "IncludedRecipes": [
+      {
+        "Name": "automation-science-pack",
+        "RecipeID": 19263,
+        "isMissing": false,
+        "Ingredients": {
+          "copper-plate": 1,
+          "iron-gear-wheel": 1
+        },
+        "Products": {
+          "automation-science-pack": 1
+        }
+      },
+      {
+        "Name": "pipe-to-ground-recycling",
+        "RecipeID": 19518,
+        "isMissing": false,
+        "Ingredients": {
+          "pipe-to-ground": 1
+        },
+        "Products": {
+          "pipe": 1.25,
+          "iron-plate": 0.625
+        }
+      },
+      {
+        "Name": "pipe",
+        "RecipeID": 18976,
+        "isMissing": false,
+        "Ingredients": {
+          "iron-plate": 1
+        },
+        "Products": {
+          "pipe": 1
+        }
+      },
+      {
+        "Name": "casting-pipe-to-ground",
+        "RecipeID": 18979,
+        "isMissing": false,
+        "Ingredients": {
+          "pipe": 10,
+          "molten-iron": 50
+        },
+        "Products": {
+          "pipe-to-ground": 2
+        }
+      },
+      {
+        "Name": "iron-gear-wheel",
+        "RecipeID": 19160,
+        "isMissing": false,
+        "Ingredients": {
+          "iron-plate": 2
+        },
+        "Products": {
+          "iron-gear-wheel": 1
+        }
+      },
+      {
+        "Name": "iron-ore-recycling",
+        "RecipeID": 19102,
+        "isMissing": false,
+        "Ingredients": {
+          "iron-ore": 1
+        },
+        "Products": {
+          "iron-ore": 0.25
+        }
+      },
+      {
+        "Name": "molten-iron",
+        "RecipeID": 19186,
+        "isMissing": false,
+        "Ingredients": {
+          "iron-ore": 50,
+          "calcite": 1
+        },
+        "Products": {
+          "molten-iron": 500
+        }
+      },
+      {
+        "Name": "iron-plate",
+        "RecipeID": 19111,
+        "isMissing": false,
+        "Ingredients": {
+          "iron-ore": 1
+        },
+        "Products": {
+          "iron-plate": 1
+        }
+      },
+      {
+        "Name": "\u00A7\u00A7r:e:iron-ore",
+        "RecipeID": 19670,
+        "isMissing": false,
+        "Ingredients": {},
+        "Products": {
+          "iron-ore": 1
+        }
+      },
+      {
+        "Name": "copper-ore-recycling",
+        "RecipeID": 19103,
+        "isMissing": false,
+        "Ingredients": {
+          "copper-ore": 1
+        },
+        "Products": {
+          "copper-ore": 0.25
+        }
+      },
+      {
+        "Name": "\u00A7\u00A7r:e:copper-ore",
+        "RecipeID": 19669,
+        "isMissing": false,
+        "Ingredients": {},
+        "Products": {
+          "copper-ore": 1
+        }
+      },
+      {
+        "Name": "copper-plate",
+        "RecipeID": 19117,
+        "isMissing": false,
+        "Ingredients": {
+          "copper-ore": 1
+        },
+        "Products": {
+          "copper-plate": 1
+        }
+      }
+    ],
+    "IncludedPlantProcesses": [],
+    "IncludedAssemblers": [
+      "assembling-machine-3",
+      "big-mining-drill",
+      "foundry",
+      "recycler"
+    ],
+    "IncludedModules": [
+      "efficiency-module-3",
+      "productivity-module-3",
+      "quality-module-3",
+      "speed-module-3"
+    ],
+    "IncludedBeacons": [
+      "beacon"
+    ],
+    "IncludedQualities": [
+      {
+        "Key": "epic",
+        "Value": 3
+      },
+      {
+        "Key": "legendary",
+        "Value": 5
+      },
+      {
+        "Key": "normal",
+        "Value": 0
+      },
+      {
+        "Key": "rare",
+        "Value": 2
+      },
+      {
+        "Key": "uncommon",
+        "Value": 1
+      }
+    ],
+    "Nodes": [
+      {
+        "NodeID": 54,
+        "Location": "4956, -1235",
+        "NodeType": 1,
+        "RateType": 1,
+        "DesiredSetValue": 5000,
+        "Direction": 0,
+        "Item": "automation-science-pack",
+        "BaseQuality": "legendary",
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 0,
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 53,
+        "Location": "4956, -1030",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19263,
+        "RecipeQuality": "legendary",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 10,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 52,
+        "Location": "5935, -261",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "legendary",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 51,
+        "Location": "5668, 253",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18976,
+        "RecipeQuality": "epic",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "efficiency-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 50,
+        "Location": "5933, 10",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "legendary",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 49,
+        "Location": "5153, -769",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19160,
+        "RecipeQuality": "legendary",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 48,
+        "Location": "5417, 249",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18976,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0.1,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 47,
+        "Location": "5609, 480",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19102,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 46,
+        "Location": "5151, -250",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 45,
+        "Location": "5416, -248",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 44,
+        "Location": "5417, -3",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 43,
+        "Location": "5176, -2",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 42,
+        "Location": "5219, 247",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18976,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 4,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 41,
+        "Location": "5417, 476",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19186,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 8,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 40,
+        "Location": "5216, 486",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19111,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 8,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 39,
+        "Location": "5242, 751",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19670,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 1000,
+        "Assembler": "big-mining-drill",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 38,
+        "Location": "5687, -254",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "epic",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 37,
+        "Location": "5693, -4",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "epic",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 36,
+        "Location": "4138, 140",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "epic",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 35,
+        "Location": "4157, -118",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "epic",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 34,
+        "Location": "3759, 859",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19670,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 1000,
+        "Assembler": "big-mining-drill",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 33,
+        "Location": "3736, 627",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19111,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 8,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 32,
+        "Location": "3933, 607",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19186,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 8,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 31,
+        "Location": "3735, 378",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18976,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 4,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 30,
+        "Location": "3692, 129",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 29,
+        "Location": "3916, 131",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 28,
+        "Location": "3932, -117",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 27,
+        "Location": "3667, -119",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 26,
+        "Location": "4125, 611",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19102,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 25,
+        "Location": "3933, 380",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18976,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0.1,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 24,
+        "Location": "3522, -596",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19160,
+        "RecipeQuality": "epic",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 23,
+        "Location": "3409, -874",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19263,
+        "RecipeQuality": "epic",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 10,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 22,
+        "Location": "3407, -1108",
+        "NodeType": 1,
+        "RateType": 1,
+        "DesiredSetValue": 10000,
+        "Direction": 0,
+        "Item": "automation-science-pack",
+        "BaseQuality": "epic",
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 0,
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 21,
+        "Location": "1388, -1214",
+        "NodeType": 1,
+        "RateType": 1,
+        "DesiredSetValue": 20000,
+        "Direction": 0,
+        "Item": "automation-science-pack",
+        "BaseQuality": "rare",
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 0,
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 20,
+        "Location": "1389, -951",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19263,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 10,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 19,
+        "Location": "1577, -686",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19160,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 4,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 18,
+        "Location": "1611, -451",
+        "NodeType": 2,
+        "RateType": 0,
+        "Direction": 0,
+        "Item": "iron-plate",
+        "BaseQuality": "rare",
+        "SDraw": true,
+        "PlantProcessID": 0,
+        "RecipeID": 0,
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 17,
+        "Location": "2288, 553",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19102,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 16,
+        "Location": "1830, -177",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 15,
+        "Location": "2079, -186",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19518,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 14,
+        "Location": "2078, 66",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "rare",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 1,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 13,
+        "Location": "1855, 71",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18979,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 12,
+        "Location": "1898, 324",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 18976,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 4,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 11,
+        "Location": "2096, 549",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19186,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 8,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 10,
+        "Location": "1899, 554",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19111,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 8,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 9,
+        "Location": "1923, 795",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19670,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 1000,
+        "Assembler": "big-mining-drill",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 8,
+        "Location": "-119, -510",
+        "NodeType": 1,
+        "RateType": 1,
+        "DesiredSetValue": 60000,
+        "Direction": 0,
+        "Item": "automation-science-pack",
+        "BaseQuality": "uncommon",
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 0,
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 7,
+        "Location": "245, 346",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19102,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 4,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 6,
+        "Location": "-4, 654",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19670,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 1000,
+        "Assembler": "big-mining-drill",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 5,
+        "Location": "-26, 334",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19111,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 5,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 4,
+        "Location": "-358, 336",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19103,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "recycler",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 4,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 3,
+        "Location": "-226, 650",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19669,
+        "RecipeQuality": "normal",
+        "Neighbours": 0,
+        "ExtraProductivity": 1000,
+        "Assembler": "big-mining-drill",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "quality-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 0,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 2,
+        "Location": "-25, 53",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19160,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 1,
+        "Location": "-199, 53",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19117,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "foundry",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 2,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      },
+      {
+        "NodeID": 0,
+        "Location": "-119, -282",
+        "NodeType": 3,
+        "RateType": 0,
+        "Direction": 0,
+        "SDraw": false,
+        "PlantProcessID": 0,
+        "RecipeID": 19263,
+        "RecipeQuality": "uncommon",
+        "Neighbours": 0,
+        "ExtraProductivity": 0,
+        "Assembler": "assembling-machine-3",
+        "AssemblerQuality": "legendary",
+        "AssemblerModules": [
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "productivity-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "Beacon": "beacon",
+        "BeaconQuality": "legendary",
+        "BeaconModules": [
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          },
+          {
+            "Name": "speed-module-3",
+            "Quality": "legendary"
+          }
+        ],
+        "BeaconCount": 10,
+        "BeaconsPerAssembler": 0,
+        "BeaconsConst": 0
+      }
+    ],
+    "NodeLinks": [
+      {
+        "SupplierID": 30,
+        "ConsumerID": 28,
+        "Item": "pipe-to-ground",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 42,
+        "ConsumerID": 44,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 11,
+        "ConsumerID": 14,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 26,
+        "ConsumerID": 26,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 28,
+        "ConsumerID": 36,
+        "Item": "pipe",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 11,
+        "ConsumerID": 13,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 34,
+        "ConsumerID": 33,
+        "Item": "iron-ore",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 27,
+        "ConsumerID": 25,
+        "Item": "iron-plate",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 27,
+        "ConsumerID": 29,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 52,
+        "ConsumerID": 49,
+        "Item": "iron-plate",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 3,
+        "ConsumerID": 4,
+        "Item": "copper-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 42,
+        "ConsumerID": 43,
+        "Item": "pipe",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 25,
+        "ConsumerID": 29,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 28,
+        "ConsumerID": 29,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 3,
+        "ConsumerID": 1,
+        "Item": "copper-ore",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 7,
+        "ConsumerID": 7,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 51,
+        "ConsumerID": 50,
+        "Item": "pipe",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 32,
+        "ConsumerID": 36,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 47,
+        "ConsumerID": 47,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 53,
+        "ConsumerID": 54,
+        "Item": "automation-science-pack",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 38,
+        "ConsumerID": 37,
+        "Item": "pipe",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 51,
+        "ConsumerID": 37,
+        "Item": "pipe",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 45,
+        "ConsumerID": 44,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 6,
+        "ConsumerID": 7,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 46,
+        "ConsumerID": 44,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 15,
+        "ConsumerID": 14,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 32,
+        "ConsumerID": 30,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 9,
+        "ConsumerID": 17,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 35,
+        "ConsumerID": 36,
+        "Item": "pipe",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 48,
+        "ConsumerID": 44,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 45,
+        "ConsumerID": 48,
+        "Item": "iron-plate",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 6,
+        "ConsumerID": 5,
+        "Item": "iron-ore",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 28,
+        "ConsumerID": 24,
+        "Item": "iron-plate",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 46,
+        "ConsumerID": 43,
+        "Item": "pipe",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 16,
+        "ConsumerID": 14,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 46,
+        "ConsumerID": 48,
+        "Item": "iron-plate",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 43,
+        "ConsumerID": 46,
+        "Item": "pipe-to-ground",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 29,
+        "ConsumerID": 28,
+        "Item": "pipe-to-ground",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 27,
+        "ConsumerID": 30,
+        "Item": "pipe",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 44,
+        "ConsumerID": 45,
+        "Item": "pipe-to-ground",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 41,
+        "ConsumerID": 50,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 41,
+        "ConsumerID": 44,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 10,
+        "ConsumerID": 12,
+        "Item": "iron-plate",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 37,
+        "ConsumerID": 38,
+        "Item": "pipe-to-ground",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 38,
+        "ConsumerID": 50,
+        "Item": "pipe",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 15,
+        "ConsumerID": 18,
+        "Item": "iron-plate",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 41,
+        "ConsumerID": 43,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 39,
+        "ConsumerID": 41,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 16,
+        "ConsumerID": 13,
+        "Item": "pipe",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 45,
+        "ConsumerID": 51,
+        "Item": "iron-plate",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 52,
+        "ConsumerID": 50,
+        "Item": "pipe",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 38,
+        "ConsumerID": 51,
+        "Item": "iron-plate",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 23,
+        "ConsumerID": 22,
+        "Item": "automation-science-pack",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 32,
+        "ConsumerID": 29,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 34,
+        "ConsumerID": 26,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 14,
+        "ConsumerID": 15,
+        "Item": "pipe-to-ground",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 1,
+        "ConsumerID": 0,
+        "Item": "copper-plate",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 12,
+        "ConsumerID": 14,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 49,
+        "ConsumerID": 53,
+        "Item": "iron-gear-wheel",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 46,
+        "ConsumerID": 42,
+        "Item": "iron-plate",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 28,
+        "ConsumerID": 25,
+        "Item": "iron-plate",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 9,
+        "ConsumerID": 11,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 20,
+        "ConsumerID": 21,
+        "Item": "automation-science-pack",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 45,
+        "ConsumerID": 37,
+        "Item": "pipe",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 19,
+        "ConsumerID": 20,
+        "Item": "iron-gear-wheel",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 31,
+        "ConsumerID": 29,
+        "Item": "pipe",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 25,
+        "ConsumerID": 36,
+        "Item": "pipe",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 37,
+        "ConsumerID": 52,
+        "Item": "pipe-to-ground",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 33,
+        "ConsumerID": 31,
+        "Item": "iron-plate",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 16,
+        "ConsumerID": 12,
+        "Item": "iron-plate",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 40,
+        "ConsumerID": 42,
+        "Item": "iron-plate",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 17,
+        "ConsumerID": 17,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 16,
+        "ConsumerID": 18,
+        "Item": "iron-plate",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 29,
+        "ConsumerID": 35,
+        "Item": "pipe-to-ground",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 35,
+        "ConsumerID": 24,
+        "Item": "iron-plate",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 50,
+        "ConsumerID": 52,
+        "Item": "pipe-to-ground",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 38,
+        "ConsumerID": 49,
+        "Item": "iron-plate",
+        "Quality": "legendary"
+      },
+      {
+        "SupplierID": 36,
+        "ConsumerID": 35,
+        "Item": "pipe-to-ground",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 2,
+        "ConsumerID": 0,
+        "Item": "iron-gear-wheel",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 30,
+        "ConsumerID": 27,
+        "Item": "pipe-to-ground",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 39,
+        "ConsumerID": 40,
+        "Item": "iron-ore",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 48,
+        "ConsumerID": 37,
+        "Item": "pipe",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 12,
+        "ConsumerID": 13,
+        "Item": "pipe",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 4,
+        "ConsumerID": 4,
+        "Item": "copper-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 43,
+        "ConsumerID": 45,
+        "Item": "pipe-to-ground",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 41,
+        "ConsumerID": 37,
+        "Item": "molten-iron",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 44,
+        "ConsumerID": 38,
+        "Item": "pipe-to-ground",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 18,
+        "ConsumerID": 19,
+        "Item": "iron-plate",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 31,
+        "ConsumerID": 30,
+        "Item": "pipe",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 13,
+        "ConsumerID": 16,
+        "Item": "pipe-to-ground",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 24,
+        "ConsumerID": 23,
+        "Item": "iron-gear-wheel",
+        "Quality": "epic"
+      },
+      {
+        "SupplierID": 39,
+        "ConsumerID": 47,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 5,
+        "ConsumerID": 2,
+        "Item": "iron-plate",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 13,
+        "ConsumerID": 15,
+        "Item": "pipe-to-ground",
+        "Quality": "rare"
+      },
+      {
+        "SupplierID": 34,
+        "ConsumerID": 32,
+        "Item": "iron-ore",
+        "Quality": "normal"
+      },
+      {
+        "SupplierID": 27,
+        "ConsumerID": 31,
+        "Item": "iron-plate",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 0,
+        "ConsumerID": 8,
+        "Item": "automation-science-pack",
+        "Quality": "uncommon"
+      },
+      {
+        "SupplierID": 9,
+        "ConsumerID": 10,
+        "Item": "iron-ore",
+        "Quality": "uncommon"
+      }
+    ]
+  }
+}
