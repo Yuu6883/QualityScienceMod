@@ -173,6 +173,8 @@ local function add_quality_science_scaling(recipe, scaling_map, recipe_scale)
 end
 
 -- change drain multiplier on quality science packs
+data.raw.quality.normal.tool_durability_multiplier = 1
+data.raw.quality.uncommon.tool_durability_multiplier = 2
 data.raw.quality.rare.tool_durability_multiplier = 4
 data.raw.quality.epic.tool_durability_multiplier = 8
 data.raw.quality.legendary.tool_durability_multiplier = 16
